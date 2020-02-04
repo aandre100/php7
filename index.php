@@ -6,8 +6,8 @@
 	</head>
 	<body>
 <?php
-
-echo "Script teste 1";
+echo "olá, tudo bem";
+echo "Script teste 1 2 3";
  ?>
 	</body>
 </html>
