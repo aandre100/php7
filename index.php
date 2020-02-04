@@ -7,7 +7,7 @@
 	<body>
 <?php
 
-echo "Script teste";
+echo "Script teste 1";
  ?>
 	</body>
 </html>
